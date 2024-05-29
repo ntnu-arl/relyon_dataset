@@ -1,4 +1,4 @@
-# Relyon Datset
+# Relyon Dataset
 
 > [!NOTE]
 > The dataset will be released upon publication of the corresponding paper.
