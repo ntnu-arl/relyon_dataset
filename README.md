@@ -31,7 +31,7 @@ To run the driver with the dataset, one may use the command
 ```bash
 roslaunch ouster_ros replay.launch metadata:=metadata.json ouster_ns:=os_node timestamp_mode:=TIME_FROM_ROS_TIME
 ```
-with the `metadata.json` from this repostory.
+with the `metadata.json` file from this repostory.
 
 ## Transforms
 
