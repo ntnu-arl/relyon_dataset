@@ -41,3 +41,7 @@ The transform between the IMU frame (body) and the LiDAR (os_sensor) is given by
 frame_id child_frame_id x y z    qx qy qz qw
 body     os_sensor      0 0 0.05 0  0  0  1
 ```
+
+## Acknowledgements
+
+We thank Relyon Nutec Trondheim for access to the facility.
