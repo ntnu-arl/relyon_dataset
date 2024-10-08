@@ -21,7 +21,7 @@ The bagfile contains the following topics:
 | --- | --- | --- |
 | `/os_node/lidar_packets` | `ouster_ros/PacketMsg` | Ouster OS0-64 Rev. D LiDAR |
 | `/os_node/imu_packets` | `ouster_ros/PacketMsg` | Ouster OS0-64 Rev. D LiDAR |
-| `/os_node/imu_packets` | `sensor_msgs/Imu` | Pixracer Pro Autopilot IMU |
+| `/mavros/imu/data_raw` | `sensor_msgs/Imu` | Pixracer Pro Autopilot IMU |
 
 ## LiDAR Driver
 
